@@ -115,4 +115,4 @@ async def on_member_remove(member, ctx):
     print(f'{member} has left the server !')
     await ctx.send(f'{member} has left the server !')
 
-client.run('')
+client.run('Token here !')
